@@ -6,7 +6,7 @@ params:
     title: Fjord
     tagline: 'Não parar, não precipitar, não retroceder.'
     logo_img: images/logo.svg
-    logo_img_alt: Fjord Logo
+    logo_img_alt: Os Conservadores Logo
     background_img: images/100038800394_157146.jpg
     has_nav: true
     nav_links:
