@@ -45,7 +45,7 @@ params:
         icon_class: facebook
         new_window: true
   footer:
-    content: '&copy; Os Conservadores. Todos os direitos reservados. '
+    content: '&copy; 2021 Os Conservadores. Todos os direitos reservados. '
   domain: 'https://marvelous-apple-8d004.netlify.app'
 taxonomies:
   stub: stub
