@@ -40,7 +40,7 @@ params:
         icon_class: pinterest
         new_window: true
       - label: LinkedIn
-        url: 'https://www.linkedin.com/'
+        url: 'https://www.facebook.com'
         style: icon
         icon_class: facebook
         new_window: true
