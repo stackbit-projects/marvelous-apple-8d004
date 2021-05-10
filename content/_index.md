@@ -1,7 +1,7 @@
 ---
 title: Início
 has_more_link: true
-more_link_text: Continuar lendo ...
+more_link_text: Continuar lendo
 seo:
   title: Stackbit Fjord Theme
   description: The preview of the Fjord theme
