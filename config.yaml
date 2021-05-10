@@ -15,7 +15,6 @@ params:
         style: link
       - url: /about
         style: link
-        label: sS
       - label: Style Guide
         url: /style-guide
         style: link
