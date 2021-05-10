@@ -42,7 +42,7 @@ params:
       - label: LinkedIn
         url: 'https://www.linkedin.com/'
         style: icon
-        icon_class: linkedin
+        icon_class: facebook
         new_window: true
   footer:
     content: >-
