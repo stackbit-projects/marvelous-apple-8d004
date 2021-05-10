@@ -10,7 +10,7 @@ params:
     background_img: images/header-bg.jpg
     has_nav: true
     nav_links:
-      - label: Home
+      - label: Início
         url: /
         style: link
       - label: About
