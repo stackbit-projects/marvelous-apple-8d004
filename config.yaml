@@ -11,7 +11,7 @@ params:
     has_nav: true
     nav_links:
       - label: Início
-        url: /
+        url: /inicio
         style: link
       - url: /sobre
         style: link
