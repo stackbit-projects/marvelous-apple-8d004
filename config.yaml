@@ -7,7 +7,7 @@ params:
     tagline: 'Não parar, não precipitar, não retroceder.'
     logo_img: images/logo.svg
     logo_img_alt: Fjord Logo
-    background_img: images/header-bg.jpg
+    background_img: images/100038800394_157146.jpg
     has_nav: true
     nav_links:
       - label: Início
