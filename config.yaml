@@ -1,7 +1,7 @@
 title: Stackbit Fjord Theme
 baseURL: /
 params:
-  palette: yellow
+  palette: red
   header:
     title: Fjord
     tagline: 'Não parar, não precipitar, não retroceder.'
