@@ -19,7 +19,7 @@ params:
       - label: Style Guide
         url: /style-guide
         style: link
-      - label: Contact
+      - label: Conta
         url: /contact
         style: link
     has_social: true
