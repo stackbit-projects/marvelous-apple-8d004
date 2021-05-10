@@ -13,7 +13,7 @@ params:
       - label: Início
         url: /
         style: link
-      - url: /about
+      - url: /sobre
         style: link
         label: Sobre
       - label: Style Guide
