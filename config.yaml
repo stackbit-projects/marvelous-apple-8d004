@@ -35,7 +35,7 @@ params:
         icon_class: instagram
         new_window: true
       - label: GitHub
-        url: 'https://github.com/'
+        url: 'https://https://www.pinterest.co'
         style: icon
         icon_class: pinterest
         new_window: true
