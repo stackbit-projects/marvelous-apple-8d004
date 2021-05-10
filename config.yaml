@@ -46,7 +46,7 @@ params:
         new_window: true
   footer:
     content: >-
-      &copy; Os Conservadores. Todos os direitos reserrvados. This Jamstack site
+      &copy; Os Conservadores. Todos os direitos reservados. This Jamstack site
       was created with <a
       href="https://www.stackbit.com/?utm_source=deployed-footer"
       target="_blank" rel="noopener">Stackbit</a>. Create yours <a
